@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/comp.jpeg
-" alt="Image Description">
-</p>
 
 [![My GitHub Banner](./assets/comp.jpeg)](https://www.linkedin.com/in/midasoden/)
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/KiNGxMiDAS/KiNGxMiDAS)](https://github.com/KiNGxMiDAS) -->
