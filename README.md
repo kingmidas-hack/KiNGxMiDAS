@@ -11,7 +11,7 @@ I’m Midas, a passionately curious student and soon-to-be CS grad hoping to one
 Problem solving, self-sufficiency, and resourcefulness are my greatest strengths. Aside from torturing myself, when I'm not studying, I'm usually outside. Apart from coding I tend to get lost in reading, art, and music.
 
 
-<a href="https://open.spotify.com/playlist/3ifpAaYdy3ajBhyQ2ZX60b">
+<a href="[https://open.spotify.com/playlist/3ifpAaYdy3ajBhyQ2ZX60b](https://open.spotify.com/playlist/2j4BmwxVQ56QiGI2ox6yfO)">
   <img align="left" alt="Midas' Spotify" width="22px" src="https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM" />
 
 
